@@ -88,7 +88,7 @@ Algoritmo ejercicios
 	Mientras opc <> "10" Hacer
 		Borrar Pantalla
 		Escribir "=============================================="
-		Escribir "     MENÚ DE EJERCICIOS - CONDICIONES"
+		Escribir "     MENÚ DE EJERCICIOS - CONDICIONES         "
 		Escribir "=============================================="
 		Escribir "1) Suma de dos numeros"
 		Escribir "2) Verificar si un número es par o impar."
